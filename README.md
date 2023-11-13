@@ -14,6 +14,6 @@ Instructions:
 6. Right click "div id="card-list" - Copy - Copy Element
 7. Paste the element into your text editor and save the file, example collection.txt
 8. Download and run the repo's python script, run it - 
-python3 hscolection.py 
+python3 hscollection.py 
 9. Drag & drop your collection.txt into the python window when prompted, hit enter
 10. Your collection will be sorted into a .csv showing card name, card counts and golden card counts
