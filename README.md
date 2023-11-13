@@ -10,8 +10,8 @@ Instructions:
 2. Install BS4 - in your terminal window enter "pip3 install bs4"
 3. Browse to https://hsreplay.net/collection/mine/ and scroll ALL THE WAY DOWN so all of your collection/cards are rendered on the page
 4. Right click the page - click inspect
-5. Click on "<main class="card-list-wrapper">" to expand the selection
-6. Right click <div id="card-list"> - Copy - Copy Element
+5. Click on "main class="card-list-wrapper" to expand the selection
+6. Right "click div id="card-list" - Copy - Copy Element
 7. Paste the element into your text editor and save the file, example collection.txt
 8. Download and run the repo's python script, run it - 
 python3 hscolection.py 
